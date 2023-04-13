@@ -1,0 +1,2 @@
+# invoice.html
+Shoporama ordrebekræftelsesmail
